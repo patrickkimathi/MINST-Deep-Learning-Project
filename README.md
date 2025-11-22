@@ -1,10 +1,7 @@
 # MNIST Handwritten Digit Classification using Artificial Neural Networks (ANN)
-
-## Student: Patrick Kimathi Kariuki
-
+ Patrick Kimathi Kariuki
 ## Course: Cyber Shujaa -- Data Science
 
-## Assignment 10: Deep Learning
 
 ## Project Overview
 
